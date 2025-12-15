@@ -1,0 +1,4 @@
+uvloop
+httpx
+websockets
+colorama
