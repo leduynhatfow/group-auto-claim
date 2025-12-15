@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "webhooks": {
+    "logs": "",
+    "detections": "",
+    "errors": ""
+  },
+  "prefix": "--",
+  "timeout": 0.205
+}
