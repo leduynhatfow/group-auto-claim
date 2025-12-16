@@ -2,3 +2,4 @@ uvloop
 httpx
 websockets
 colorama
+curl-cffi
