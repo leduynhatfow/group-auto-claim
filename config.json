@@ -6,5 +6,6 @@
     "errors": ""
   },
   "prefix": "--",
-  "timeout": 0.205
+  "claim_mode": "parallel",
+  "parallel_delays": [0.14, 0.15, 0.16]
 }
